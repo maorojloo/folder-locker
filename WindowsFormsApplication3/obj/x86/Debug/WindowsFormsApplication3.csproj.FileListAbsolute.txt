@@ -1,0 +1,40 @@
+G:\new html 5 94\new down project 1\Folder Lock\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+G:\new html 5 94\new down project 1\Folder Lock\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+G:\new html 5 94\new down project 1\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\new html 5 94\new down project 1\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+G:\new html 5 94\new down project 1\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+G:\new html 5 94\new down project 1\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\new html 5 94\new down project 1\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\new html 5 94\new down project 1\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+G:\new html 5 94\new down project 1\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AboutBox1.resources
+X:\projects_import\c#\$sorse_don_non _edit\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\bin\Debug\Folder locker.exe
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\bin\Debug\Folder locker.pdb
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AboutBox1.resources
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\F_lock.Properties.Resources.resources
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\Folder locker.exe
+X:\projects_import\c#\$down_finish\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\Folder locker.pdb
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\Folder locker.exe
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\Folder locker.pdb
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\bin\Debug\Folder locker.exe
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\bin\Debug\Folder locker.pdb
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AboutBox1.resources
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\F_lock.Properties.Resources.resources
+X:\projects_import\c#\$down_finish\$پروژه نهایی$\1Folder_Lock_Source_with_Csharp\Folder Lock\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
